@@ -1,4 +1,4 @@
-# sindresorhus [![Build Status](https://travis-ci.org/sindresorhus/sindresorhus.svg?branch=master)](https://travis-ci.org/sindresorhus/sindresorhus)
+# Nicolai Davies
 
 The [Nicolai Davies](https://sindresorhus.com) CLI
 
