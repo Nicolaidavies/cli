@@ -1,6 +1,6 @@
 # Nicolai Davies
 
-The [Nicolai Davies](https://sindresorhus.com) CLI
+My very own CLI
 
 Idea stolen from [Sindre Sorhus](https://github.com/sindresorhus).
 
